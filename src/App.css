@@ -1,0 +1,17 @@
+body, html{
+  margin-top:150px;
+  background-color:rgb(144, 130, 104);
+}
+
+.app {
+  padding: 30px;
+  color: white;
+  background-color: rgb(144, 130, 104);
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
